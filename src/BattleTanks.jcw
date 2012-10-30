@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>BattleTanks</label>
+	</settings>
+	<users>
+		<user>
+			<path>BattleTanks.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>BattleTanks.jcp</path>
+		</project>
+	</projects>
+</workspace>
